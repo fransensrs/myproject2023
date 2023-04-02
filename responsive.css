@@ -1,11 +1,6 @@
 @media all and (max-width: 670px) {
   body {
     width: 100%;
-    background-color: black;
-  }
-  
-  .container {
-    color: 
   }
   
   .button:hover {
@@ -15,10 +10,10 @@
   }
   
   .button {
-    color: blue;
+    color: black;
   }
   
   .buttons {
-    color: white;
+    color: black;
   }
 }
