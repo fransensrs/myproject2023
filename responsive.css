@@ -1,10 +1,11 @@
 @media all and (max-width: 670px) {
   body {
     width: 100%;
+    background-color: black;
   }
   
   .container {
-    background-color: black;
+    color: white;
   }
   
   .button:hover {
